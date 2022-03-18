@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d214088"],{aee3:function(n,e,t){"use strict";t.r(e);var c=t("7a23"),a={id:"title"},o=Object(c["g"])("h1",null,"프로젝트 스쿨",-1),r=[o];function d(n,e,t,o,d,i){return Object(c["q"])(),Object(c["f"])("div",a,r)}var i={name:"SchoolStart"},u=t("6b0d"),b=t.n(u);const s=b()(i,[["render",d]]);e["default"]=s}}]);
+//# sourceMappingURL=chunk-2d214088.0577b639.js.map
